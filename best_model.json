@@ -1,0 +1,16 @@
+{
+  "name": "MobileNetV2",
+  "checkpoint": "/kaggle/working/outputs/checkpoints/MobileNetV2_final.keras",
+  "accuracy": 0.7951923076923076,
+  "macro_f1": 0.7598996562739877,
+  "class_names": [
+    "Calculus",
+    "Caries_Gingivitus_ToothDiscoloration_Ulcer-yolo_annotated-Dataset",
+    "Data caries",
+    "Gingivitis",
+    "Mouth Ulcer",
+    "Tooth Discoloration",
+    "hypodontia"
+  ],
+  "img_size": 160
+}
